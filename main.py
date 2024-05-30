@@ -1,4 +1,3 @@
-# TEE PELI TÄHÄN
 import pygame
 import random
 
